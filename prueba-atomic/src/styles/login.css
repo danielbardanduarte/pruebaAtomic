@@ -1,0 +1,131 @@
+.queremos{
+    font-size:150%;
+    margin-bottom: 7vh;
+    margin-top: 7vh;
+    margin-left: 12vh;
+    color: white;
+}
+.inpu{
+    margin-left: 12vh;
+    margin-bottom: 3vh;
+}
+.codigoVer{
+    font-size:130%;
+    
+    margin-left: 12vh;
+    color: white;
+}
+.enviar{
+    position: center;
+    background-color: #FA4D09;
+    border-radius: 15px;
+    border: none;
+    cursor: pointer;
+    font-weight: bold;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    height: 35px;
+    margin-left: -9vh;
+    margin-top: 3vh;
+    
+}
+.divi{
+    background-image: url(/src/Paquete-Atomic/Mask\ Group\ 1.png) ;
+    margin: -9px;
+}
+.ingresa{
+    font-size:150%;
+    margin-bottom: 10vh;
+    margin-left: 12vh;
+    color: white;
+
+}
+.t1{
+    font-size:300%;
+    margin-left: 25vh;
+    margin-top: 27vh;
+    color: white;
+    font-weight: 800;
+
+}
+.nece{
+    font-size:150%;
+    margin-top: 8vh;
+    margin-left: 12vh;
+    color: white;
+
+}
+.te{
+    font-size:150%;
+    margin-top: 12vh;
+    margin-left: 12vh;
+    color: white;
+
+}
+.num{
+    font-size:150%;
+    
+    margin-left: 12vh;
+    color: white;
+
+}
+.in{
+    font-size:150%;
+    margin-left: 12vh;
+    color: white;
+    margin-top: 5vh;
+
+}
+.no{
+    font-size:150%;
+    margin-bottom: -4vh;
+    margin-left: 12vh;
+    color: white;
+}
+h5{
+    font-size:350%;
+   
+    margin-left: 13vh;
+   color: white;
+}
+.progress{
+    left: 12vh;
+    width: 60%;
+  position: absolute;
+  top: 17vh;
+   
+}
+
+.uno{
+    position: absolute;
+    margin-left: 8%;
+    
+}
+.dosG{
+    position: absolute;
+    margin-left: 8vh;
+    margin-top: -2vh;
+}
+.unito{
+    position: absolute;
+    margin-left: 16%;
+    margin-top: 4%;
+}
+.dos{
+    position: absolute;
+    margin-left: 27.7%;
+    margin-top: 4%;
+}
+.tres{
+    position: absolute;
+    margin-left: 39.7%;
+    margin-top: 4%;
+}
+.cuatro{
+    position: absolute;
+    margin-left: 52.7%;
+    margin-top: 4%;
+}

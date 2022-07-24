@@ -1,0 +1,16 @@
+.boton{
+    position: center;
+    background-color: white;
+    border-radius: 15px;
+    border: none;
+    cursor: pointer;
+    font-weight: bold;
+    color: #2879AB;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    height: 35px;
+    margin-left: 6rem;
+    
+}
